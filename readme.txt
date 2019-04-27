@@ -5,3 +5,4 @@ Git tracks changes of files.
 jjj
 Creating a new branch is quick and simple.
 try --no-ff
+try stash
